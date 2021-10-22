@@ -29,7 +29,7 @@ _Programming Language Suggester is an interactive HTML webpage that allows the u
 * _When you have clicked on the answers to all 5 questions click the "Click here to see your results below" button to calculate your results._
 * _Scroll down to see the language you might want to learn._
 * _Repeat the questionnaire as many times as you would like and see different languages depending on your answers._
-* _You can also access Programming Language Suggester by clicking on this [github pages link](http://jmlden36.github.io/programming_languages_suggester)_ 
+* _You can also access Programming Language Suggester by clicking on this [github pages link](https://jmlden36.github.io/programming_language_suggester/)_ 
 
 ## Known Bugs
 
