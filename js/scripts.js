@@ -24,8 +24,11 @@ function showLanguage(total) {
 
 
 $(document).ready(function() {
-  $("form#formOne").submit(function(event) {
+  $("form#formOne").submit(function(event, event2) {
     event.preventDefault();
+    $("button").click(function() {
+      $("output").remove();
+    });
     const question1 = parseInt($("input:radio[name=question1]:checked").val());
     const question2 = parseInt($("input:radio[name=question2]:checked").val());
     const question3 = parseInt($("input:radio[name=question3]:checked").val());
