@@ -18,8 +18,7 @@ function showLanguage(total) {
     $("div.output").append("<p>JavaScript is a lightweight, cross-platform, and interpreted scripting language. It is well-known for the development of web pages, many non-browser environments also use it. JavaScript can be used for Client-side developments as well as Server-side developments. JavaScript contains a standard library of objects, like Array, Date, and Math, and a core set of language elements like operators, control structures, and statements.</p>");
   } else {
     alert("You broke it!");
-  }
-  $("#button").hide
+  }  
 }
 
 $(document).ready(function() {
