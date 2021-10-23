@@ -12,6 +12,13 @@
   border-width: 1px;
 }
 
+#jumbotron3 {
+  color: black;
+  border-style: solid;
+  border-width: 1px;
+  min-height: 500px;
+}
+
 .intro {
   font-size: 120%;
 }
